@@ -8,9 +8,9 @@ traffic_simulation.py: Simulates the traffic intersection, vehicles, and traffic
 dqn_agent.py: Implements the DQN agent that learns the optimal signal timings.
 main.py: Integrates the traffic simulation and DQN agent to run the simulation.
 
-Setup
+Setup 
 -------
-git clone https://github.com/Praveen121-ux/Reinforcement-Learning-Traffic-Signal-Using-DQN.git
+git clone https://github.com/InfinityError2005/autonomous_traffic_singal_using_dqn.git
 cd Autonomous-Traffic-Signal-DQN
 
 Install Dependencies
@@ -35,9 +35,5 @@ Run the Simulation
 --------------------
 python main.py
 
-Attribution
----------------
-This project is based on the **Traffic Intersection Simulation** by **Mihir M. Gandhi** (https://github.com/mihir-m-gandhi/Traffic-Intersection-Simulation-with-Turns) with modifications to implement a **DQN-based traffic signal controller**.
 
-this is for education use
 
